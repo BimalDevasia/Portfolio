@@ -1,6 +1,7 @@
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: bimaldevasia.github.io/portfolio/lib
+-- import: fastnui.trizwit.com/UI-Components/Contact/contact-1
 
 -- lib.page:
 
@@ -22,6 +23,10 @@ link-2: https://calendly.com/
 cover: $assets.files.assets.app.jpg
 
 hello welcome to my website
+-- contact-1.contact-1: Feedback
+cta-button-1: Button
+link-1: https://media.tenor.com/t7rftXtub88AAAAC/among-us.gif
 
+Post-ironic portland shabby chic echo park, banjo fashion axe
 
 -- end: lib.page
